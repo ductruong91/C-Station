@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "gtk.h": "c",
+        "dllist.h": "c",
+        "jrb.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
